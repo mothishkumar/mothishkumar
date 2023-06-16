@@ -6,4 +6,4 @@ As a full stack developer, I have a comprehensive skill set encompassing both fr
 
 Languages and Tools:
 
-bootstrap css3 git html5 javascript mysql nodejs python react
+bootstrap,css3,git,html5,javascript,mysql,nodejs,python,react
